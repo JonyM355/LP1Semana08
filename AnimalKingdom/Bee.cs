@@ -1,4 +1,4 @@
-using System
+using System;
 
 namespace AnimalKingdom
 {
@@ -9,6 +9,6 @@ namespace AnimalKingdom
             return base.Sound() + "Bzzbzz";
         }
 
-        public int NumberOfWings { set; } = 4;
+        public int NumberOfWings { get; } = 4;
     }
 }

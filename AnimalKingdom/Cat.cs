@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Polimorfismo
+namespace AnimalKingdom
 {
     public class Cat : Animal
     {
@@ -8,5 +8,6 @@ namespace Polimorfismo
         {
             return base.Sound() + "Miau";
         }
+        public int NumberOfNipples { get; } = 6;
     }
 }

@@ -1,4 +1,4 @@
-using System
+using System;
 
 namespace AnimalKingdom
 {
@@ -10,6 +10,6 @@ namespace AnimalKingdom
         }
 
         public int NumberOfNipples { get; } = 2;
-        public int NumberOfWings { set; } = 2;
+        public int NumberOfWings { get; } = 2;
     }
 }
