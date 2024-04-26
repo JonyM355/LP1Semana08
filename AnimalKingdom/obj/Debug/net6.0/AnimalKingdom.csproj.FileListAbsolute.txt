@@ -1,0 +1,15 @@
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.exe
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.deps.json
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.runtimeconfig.json
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.dll
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.pdb
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.AssemblyInfo.cs
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.sourcelink.json
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.dll
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\refint\AnimalKingdom.dll
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.pdb
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.genruntimeconfig.cache
+C:\Users\joaor\Desktop\Programação\LP1\Aulas\Aula8\LP1Semana08\AnimalKingdom\obj\Debug\net6.0\ref\AnimalKingdom.dll
