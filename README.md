@@ -1,19 +1,14 @@
 ```mermaid
 
-    class Animal{
-    }
-    class Dog{
-    }
-    class Cat{
-    }
-    class Bat{
-    }
-    class Bee{
-    }
-    class IMammal{
-    }
-    class ICanFly{
-    }
+    classDiagram
+
+    class Animal
+    class Dog
+    class Cat
+    class Bat
+    class Bee
+    class IMammal
+    class ICanFly
 
     Animal <|-- Dog
     Animal <|-- Cat
