@@ -4,6 +4,7 @@ namespace GameUnit
     {
         public int AttackPower { get; }
         public int XP { get; private set; }
+
         public override int Health
         {
             get => base.Health + XP;
@@ -29,6 +30,12 @@ namespace GameUnit
         {
             XP++;
             u.Health -= AttackPower;
+        }
+
+        public override string ToString()
+        {
+            return $"{GetType().Name}: HP={Health} COST={Cost} "
+            + $"AP={AttackPower} XP={XP}";
         }
     }
 }
