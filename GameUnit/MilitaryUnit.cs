@@ -34,8 +34,7 @@ namespace GameUnit
 
         public override string ToString()
         {
-            return $"{GetType().Name}: HP={Health} COST={Cost} "
-            + $"AP={AttackPower} XP={XP}";
+            return base.ToString() + $"AP={AttackPower} XP={XP}";
         }
     }
 }

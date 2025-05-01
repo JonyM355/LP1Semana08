@@ -11,6 +11,10 @@ namespace GameUnit
 
             mu.Move();
             su.Move();
+
+            Console.WriteLine(mu);
+            Console.WriteLine(su);
+
         }
     }
 }

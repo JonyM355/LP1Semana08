@@ -21,9 +21,9 @@ namespace GameUnit
             Console.WriteLine($"{ToRoman(movement)}");
         }
 
-        public string ToString()
+        public override string ToString()
         {
-            return $"{GetType().Name}: HP={Health} COST={Cost:f2}";
+            return $"{GetType().Name}: HP={Health} COST={Cost:f2} ";
         }
 
         private string ToRoman(int number)
