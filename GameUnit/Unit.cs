@@ -1,4 +1,5 @@
 using System;
+using System.Reflection.Metadata.Ecma335;
 using System.Runtime.CompilerServices;
 
 namespace GameUnit
@@ -18,6 +19,11 @@ namespace GameUnit
         public void Move()
         {
             Console.WriteLine($"{ToRoman(movement)}");
+        }
+
+        public string ToString()
+        {
+            return $"{GetType().Name}: HP={Health} COST={Cost:f2}";
         }
 
         private string ToRoman(int number)
