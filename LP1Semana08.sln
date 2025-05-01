@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame", "MiniGame\MiniGame.csproj", "{84132FC8-8A96-45C3-9694-417D77B92ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{F5915679-E995-4650-B180-3E3AC74CBB12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnit", "GameUnit\GameUnit.csproj", "{C85D2736-E7F0-447E-8AD6-0C9655B1176E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{84132FC8-8A96-45C3-9694-417D77B92ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84132FC8-8A96-45C3-9694-417D77B92ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84132FC8-8A96-45C3-9694-417D77B92ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5915679-E995-4650-B180-3E3AC74CBB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5915679-E995-4650-B180-3E3AC74CBB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5915679-E995-4650-B180-3E3AC74CBB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5915679-E995-4650-B180-3E3AC74CBB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85D2736-E7F0-447E-8AD6-0C9655B1176E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85D2736-E7F0-447E-8AD6-0C9655B1176E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85D2736-E7F0-447E-8AD6-0C9655B1176E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85D2736-E7F0-447E-8AD6-0C9655B1176E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
